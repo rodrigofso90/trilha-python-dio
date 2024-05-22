@@ -1,2 +1,2 @@
-# Botcamp em Python DIO
-Para aprendisagem e desenvolvimento em python na DIO
+# Bootcamp em Python DIO
+Para aprendizagem e desenvolvimento em python na DIO
